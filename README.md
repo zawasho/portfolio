@@ -24,7 +24,7 @@ Twitterのように呟けるアプリ。日常の嫌なことや辛かったこ�
 ## 設計書
 
 
-## チャレンジ要素一覧
+## 機能一覧
 https://docs.google.com/spreadsheets/d/16UjnfTAtl97HDJ0IP9Bzp39rVMiP3-ypLJwF_4X4tKE/edit#gid=0
 
 ## 開発環境
